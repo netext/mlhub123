@@ -120,7 +120,7 @@
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html): 深度学习开源书籍
 - [Neural Networks and Deep Learning](https://github.com/zhanggyb/nndl): 深度学习开源书籍 - 中文
 - [pydata-book](https://github.com/wesm/pydata-book):利用Python进行数据分析，[中文版一](https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version)，[中文版二](https://github.com/BrambleXu/pydata-notebook)
-- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)：Python数据科学手册（中文版自行查找）
+- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)：Python数据科学手册（[中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code/blob/master/Other%20Docs/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E6%89%8B%E5%86%8C.zip)）
 - [机器学习实战](https://github.com/apachecn/MachineLearning): Machine Learning in Action（机器学习实战）
 - [简单粗暴TensorFlow](https://github.com/snowkylin/TensorFlow-cn): 本手册是一篇精简的TensorFlow入门指导
 
